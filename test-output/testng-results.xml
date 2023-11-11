@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-10T08:06:30Z" name="Default suite" finished-at="2023-11-10T08:08:00Z" duration-ms="90139">
+    <groups>
+    </groups>
+    <test started-at="2023-11-10T08:06:30Z" name="Default test" finished-at="2023-11-10T08:08:00Z" duration-ms="90139">
+      <class name="mmt.mmtproject">
+        <test-method is-config="true" signature="open()[pri:0, instance:mmt.mmtproject@be68757]" started-at="2023-11-10T13:36:30Z" name="open" finished-at="2023-11-10T13:36:40Z" duration-ms="10569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="holidaypack()[pri:0, instance:mmt.mmtproject@be68757]" started-at="2023-11-10T13:36:40Z" name="holidaypack" finished-at="2023-11-10T13:36:58Z" duration-ms="17790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- holidaypack -->
+        <test-method signature="selecthotel()[pri:0, instance:mmt.mmtproject@be68757]" started-at="2023-11-10T13:36:58Z" name="selecthotel" finished-at="2023-11-10T13:38:00Z" duration-ms="61753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selecthotel -->
+      </class> <!-- mmt.mmtproject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
